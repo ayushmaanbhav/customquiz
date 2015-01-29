@@ -6,7 +6,7 @@
 • Supports mining questions from online question-banks using basic web crawling techniques.<br>
 </p>
 <div class="release-body commit open">
-
+<h3>Download v2.0</h3>
 <div class="markdown-body">
 <p>Just extract, follow the rules and there you go..... ^_^</p>
 </div>
