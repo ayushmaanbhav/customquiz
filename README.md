@@ -13,19 +13,19 @@
 
 <ul class="release-downloads">
 <li>
-<a href="/ayushmaanbhav/customquiz/releases/download/v2.0/CustomQuiz.rar" rel="nofollow" class="button primary">
+<a href="https://github.com/ayushmaanbhav/customquiz/releases/download/v2.0/CustomQuiz.rar" rel="nofollow" class="button primary">
 <span class="octicon octicon-arrow-down"></span>
 <span class="tooltipped tooltipped-s" aria-label="40.8 MB">CustomQuiz.rar</span>
 </a>
 </li>
 <li>
-<a href="/ayushmaanbhav/customquiz/archive/v2.0.zip" rel="nofollow" class="button">
+<a href="https://github.com/ayushmaanbhav/customquiz/archive/v2.0.zip" rel="nofollow" class="button">
 <span class="octicon octicon-file-zip"></span>
 Source code (zip)
 </a>
 </li>
 <li>
-<a href="/ayushmaanbhav/customquiz/archive/v2.0.tar.gz" rel="nofollow" class="button">
+<a href="https://github.com/ayushmaanbhav/customquiz/archive/v2.0.tar.gz" rel="nofollow" class="button">
 <span class="octicon octicon-file-zip"></span>
 Source code (tar.gz)
 </a>
