@@ -6,21 +6,6 @@
 • Supports mining questions from online question-banks using basic web crawling techniques.<br>
 </p>
 <div class="release-body commit open">
-    <div class="release-header">
-        <a href="/ayushmaanbhav/customquiz/releases/edit/v2.0" class="minibutton release-edit">Edit</a>
-
-      <h1 class="release-title">
-        <a href="/ayushmaanbhav/customquiz/releases/tag/v2.0">CustomQuiz</a>
-      </h1>
-      <p class="release-authorship">
-        <img alt="Ayush Jain" class="avatar" data-user="4680789" height="20" src="https://avatars0.githubusercontent.com/u/4680789?v=3&amp;s=40" width="20" />
-        <a href="/ayushmaanbhav">ayushmaanbhav</a>
-        released this
-          <time datetime="2015-01-29T07:13:28Z" is="relative-time">Jan 29, 2015</time>
-
-      </p>
-    </div>
-
       <div class="markdown-body">
         <p>Just extract, follow the rules and there you go..... ^_^</p>
       </div>
