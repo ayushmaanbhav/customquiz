@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<quiz name="B-Quiz" organiser="IIT Patna" location="BQuiz" framewidth="760" frameheight="400">
+	<!-- All the locations are relative to the above entered location -->
+	
+	<splashscreen timeout="5" file="splash.png"></splashscreen>
+	<background file="default.jpg"></background>
+	<startanimation enabled="false" file=""></startanimation>
+	<sounds enabled="true" correct="a.wav" wrong="b.wav"></sounds>
+	
+	<!--
+	A team example:
+	
+	<teams enabled="false" scoringenabled="false">
+		<team name="Khiladis" des="" disqualified="false"></team>
+	</teams>
+	
+	
+	A round exapmle:
+	Round Types = 
+			{
+			 "normal",          //Image, Video, WithOptions, WithoutOptions 
+			 "rapidfire",       //Rapidfire
+			 "category",		 //if categories.txt is present in the folder
+			 "buzzer",
+			 "advanced"
+			}
+	 
+	<round name="First Round" type="advanced" file="firstround.txt" folder="FirstRound">
+		<categories enabled="false" file="categories.txt" separator=","></categories>
+		<options autoload="false"></options>
+		<timer enabled="true" time="60" passing-time="30" autostart="true" start-timeout="5" rapid-fire-mode="false"></timer>
+		<buzzer enabled="false"></buzzer>
+		<passing enabled="true" max-passes=""></passing>
+		<score correct="30" passingcorrect="20" wrong="-10" passingwrong="0"></score>
+		<lifelines enabled="false"></lifelines>
+	</round> 
+	-->
+	
+	<round name="First Round" type="normal" file="firstround.txt" folder="FirstRound">
+		<options autoload="false"></options>
+		<timer enabled="true" time="60" passing-time="30" autostart="true" autostart-after="options" start-timeout="5"></timer>
+		<passing enabled="true"></passing>
+	</round>
+	
+	<round name="Second Round" type="normal" file="secround.txt" folder="SecondRound">
+		<options autoload="false"></options>
+		<timer enabled="true" time="60" passing-time="30" autostart="true" autostart-after="options" start-timeout="5"></timer>
+		<passing enabled="true"></passing>
+	</round>
+	
+	<round name="First Round" type="normal" file="thirdround.txt" folder="ThirdRound">
+		<options autoload="false"></options>
+		<timer enabled="true" time="60" passing-time="30" autostart="true" autostart-after="question" start-timeout="5"></timer>
+		<passing enabled="true"></passing>
+	</round>
+</quiz>
