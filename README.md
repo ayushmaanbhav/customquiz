@@ -1,4 +1,4 @@
-# customquiz
+# CustomQuiz
 <p>
 • A quiz making and hosting software for public quizes and events like in colleges eg: Auto Quiz, Eco Quiz, Antakshari, etc.<br>
 • Features like displaying questions subjective/objective/category wise with options, images, videos, timer and lifelines.<br> 
