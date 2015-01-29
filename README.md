@@ -1,10 +1,26 @@
 # CustomQuiz
-<p>
-• A quiz making and hosting software for public quizes and events like in colleges eg: Auto Quiz, Eco Quiz, Antakshari, etc.<br>
-• Features like displaying questions subjective/objective/category wise with options, images, videos, timer and lifelines.<br> 
-• Also supports buzzer feature using smartphones connected over Wi-Fi with the app.<br>
-• Supports mining questions from online question-banks using basic web crawling techniques.<br>
-</p>
+<ul>
+<li>A quiz making and hosting software for public quizes and events like in colleges eg: Auto Quiz, Eco Quiz, Antakshari, etc.</li>
+<li>Features like displaying questions subjective/objective/category wise with options, images, videos, timer and lifelines.</li> 
+<li>Also supports buzzer feature using smartphones connected over Wi-Fi with the app.</li>
+<li>Supports mining questions from online question-banks using basic web crawling techniques.</li>
+</ul>
+<h3>Steps</h3>
+<ul>
+<li>Edit the confg.xml specify the rounds and their details.</li>
+<li>See the example folder named "BQuiz" and how it is related with confg.xml</li>
+<li>Organise the questions in the following format:</li>
+<ul>
+<li>"8 lines" for each question (just leave the line/s blank if the things are not applicable)</li>
+<li>1 st line for question</li>
+<li>4 lines for 4 options</li>
+<li>1 line for answer (option no. "only numbers" 1,2,3,4 or the descriptive answer)</li>
+<li>1 line for image, sound or video file name(for visual rounds)</li> 
+<li>1 line for category name (for category rounds)</li>
+</ul>
+<li>You are done !</li>
+</ul>
+
 <div class="release-body commit open">
 <h3>Download v2.0</h3>
 <div class="markdown-body">
