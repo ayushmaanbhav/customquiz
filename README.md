@@ -7,6 +7,7 @@
 </ul>
 <h3>Steps</h3>
 <ul>
+<li>Ensure that you have a 32-bit jdk >= 1.7</li>
 <li>Edit the confg.xml specify the rounds and their details.</li>
 <li>See the example folder named "BQuiz" and how it is related with confg.xml</li>
 <li>Organise the questions in the following format:</li>
