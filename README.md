@@ -23,16 +23,16 @@
 </ul>
 
 <div class="release-body commit open">
-<h3>Download v2.0</h3>
+<h3>Download v2.1</h3>
 <div class="markdown-body">
 <p>Just extract, follow the rules and there you go..... ^_^</p>
 </div>
 
 <ul class="release-downloads">
 <li>
-<a href="https://github.com/ayushmaanbhav/customquiz/releases/download/v2.0/CustomQuiz.rar" rel="nofollow" class="button primary">
+<a href="https://github.com/ayushmaanbhav/customquiz/releases/download/v2.1/CustomQuiz.2.1.rar" rel="nofollow" class="button primary">
 <span class="octicon octicon-arrow-down"></span>
-<span class="tooltipped tooltipped-s" aria-label="40.8 MB">CustomQuiz.rar</span>
+<span class="tooltipped tooltipped-s" aria-label="39.9 MB">CustomQuiz.rar</span>
 </a>
 </li>
 <li>
@@ -54,9 +54,5 @@ Source code (tar.gz)
 <h3>Screenshots</h3>
 Loading screen:
 ![capture2](https://cloud.githubusercontent.com/assets/4680789/6779541/2746311c-d183-11e4-818c-209b5bb9faf7.PNG)
-Main application default screen:
-![capture3](https://cloud.githubusercontent.com/assets/4680789/6779542/274dbc8e-d183-11e4-96f5-f1ab6be8ef2d.PNG)
-A question with 4-options and pic:
-![capture4](https://cloud.githubusercontent.com/assets/4680789/6779543/27535c52-d183-11e4-8f00-378206eae8c1.PNG)
-![capture5](https://cloud.githubusercontent.com/assets/4680789/6779544/2757bb30-d183-11e4-8546-b4464aeb0d9b.PNG)
-![capture6](https://cloud.githubusercontent.com/assets/4680789/6779545/278509e6-d183-11e4-9dc8-bc106c09c01b.PNG)
+Main application:
+![capture6](https://cloud.githubusercontent.com/assets/4680789/6812822/56d57a22-d297-11e4-8bf4-22f6dd4119ff.PNG)
