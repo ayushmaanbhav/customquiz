@@ -52,7 +52,7 @@ Source code (tar.gz)
 </div>
 
 <h3>Screenshots</h3>
-Loading screen:
+Loading screen:<br>
 ![capture2](https://cloud.githubusercontent.com/assets/4680789/6779541/2746311c-d183-11e4-818c-209b5bb9faf7.PNG)
-Main application:
+Main application:<br>
 ![capture6](https://cloud.githubusercontent.com/assets/4680789/6812822/56d57a22-d297-11e4-8bf4-22f6dd4119ff.PNG)
